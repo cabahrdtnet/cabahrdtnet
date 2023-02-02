@@ -4,7 +4,7 @@ My name is Christian, or Alexander, or both. Long story.
 
 ### Background
 - Computer engineer by training :computer:
-- Medical Device Software Test Engineer by profession :medical_symbol:
+- Medical device software test engineer by profession :medical_symbol:
 - Software developer and system administrator by confusion :memo:
 
 ### Stuff I like
